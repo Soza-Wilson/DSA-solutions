@@ -34,10 +34,7 @@ def merge_sorted_lists(a,b):
 
 
 if __name__ == "__main__" :
-
-    
-    b = [3,5,45,100,45,12,78]
-
+    b = [45,73,2,4,1,4,54,12,87]
     print(merge_sort(b))
 
   
